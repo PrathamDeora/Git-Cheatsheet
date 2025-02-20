@@ -1,1 +1,1 @@
-this is cheatSheet for git.
+#This is cheatSheet for git.
